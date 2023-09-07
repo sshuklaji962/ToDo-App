@@ -1,0 +1,33 @@
+@media only screen and (max-width: 768px) {
+	body {
+	  font-size: 14px;
+	}
+  
+	.container {
+	  width: 95%;
+	}
+  }  
+
+/* Import mixins (if needed), but CSS doesn't support @import for mixins */
+/* Assuming the mixins are defined in 'mixins' */
+
+.title {
+	display: inline-block;
+	width: 100%;
+	font-family: 'Poppins';
+	font-size: 4rem;
+	font-weight: 700;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 2rem;
+	margin-bottom: 1.5rem;
+	color: var(--bg-1);
+  }
+  
+  /* Apply the 'smallDeviceSize' mixin (if available in 'mixins') */
+  @media only screen and (max-width: 768px) {
+	.title {
+	  font-size: 3rem;
+	}
+  }
+  
