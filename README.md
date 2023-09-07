@@ -4,7 +4,7 @@
 
 A complete Todo-App with all features.
 
-**live demo: [https://my-todoslist-app.netlify.app.app/](https://my-todoslist-app.netlify.app/)**
+**live demo: **
 
 ---
 
