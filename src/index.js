@@ -7,7 +7,7 @@ import "@fontsource/poppins/500.css";
 import "@fontsource/poppins/600.css";
 import "@fontsource/poppins/700.css";
 import { Provider } from "react-redux";
-import { store } from "./App/Sotre";
+import { store } from "./utils/Store";
 
 ReactDOM.render(
   <React.StrictMode>
