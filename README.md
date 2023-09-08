@@ -1,6 +1,6 @@
 # React Todo App.
 
-![React Todo App](.src/assests/TodoList.png)
+![React Todo App](./assests/TodoList.png)
 
 A Complete Todo-App with all features.
 
